@@ -43,7 +43,7 @@
   onMounted(() => {
       // 读取主题设置,如果没有存储值则默认使用system
       const storedTheme = localStorage.getItem('darkMode')
-      selectedTheme.value = storedTheme || 'dark'
+      selectedTheme.value = storedTheme || 'light'
       
       // 定义系统主题变化处理函数
       darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)')
