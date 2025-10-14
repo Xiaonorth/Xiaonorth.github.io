@@ -79,7 +79,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //banner区配置
-    videoBanner: true,
+    videoBanner: false,
     name: "Sensei's 部落格",
     welcomeText: 'Hello, XiaoBei',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
