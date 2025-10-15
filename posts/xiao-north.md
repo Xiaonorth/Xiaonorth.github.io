@@ -12,11 +12,9 @@ head:
       content: vitepress theme bluearchive 简介
 ---
 
-This is a Chinese test post.
+This is a Blog.
 
 ---
-
-This is a Chinese test post.
 
 欢迎来到我的博客！
 
@@ -26,4 +24,4 @@ This is a Chinese test post.
 
 > 电子邮件：XiaoBei.mc@gmail.com
 
-_From [亂數假文產生器 - Chinese Lorem Ipsum](http://www.richyli.com/tool/loremipsum/)_
+_原项目地址 [Alittfre - Bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)_
