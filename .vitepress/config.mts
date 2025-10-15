@@ -86,7 +86,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     social: [
       { icon: 'github', url: 'https://github.com/Xiaonorth/' },
       { icon: 'bilibili', url: 'https://b23.tv/s6Lkb8O' },
-      { icon: 'qq', url: 'https://im.qq.com/index/' },
+      { icon: 'qq', url: 'https://qm.qq.com/q/Twq4muSv2o' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
 
