@@ -69,8 +69,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   // sitemap: {
     // hostname: 'https://www.112227.xyz/',
   // },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "XiaoBei's 部落格",
+  description: "XiaoBei's 部落格",
   themeConfig: {
     // navBar
     menuList: [
@@ -80,8 +80,8 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //banner区配置
     videoBanner: false,
-    name: "Sensei's 部落格",
-    welcomeText: 'Hello, XiaoBei',
+    name: "XiaoBei's 部落格",
+    welcomeText: 'Hello, World',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
       { icon: 'github', url: 'https://github.com/Xiaonorth/' },
