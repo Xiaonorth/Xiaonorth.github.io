@@ -94,7 +94,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     spineVoiceLang: 'jp',
 
     //footer配置
-    footerName: 'Sensei',
+    footerName: 'XiaoBei',
     poweredList: [
       { name: 'VitePress', url: 'https://github.com/vuejs/vitepress' },
       { name: 'GitHub Pages', url: 'https://docs.github.com/zh/pages' },
