@@ -3,6 +3,8 @@ title: Welcome to MyBlog
 
 date: 2025-10-15
 
+pinned: true
+
 tags: [Hello]
 ---
 欢迎来到我的博客！
