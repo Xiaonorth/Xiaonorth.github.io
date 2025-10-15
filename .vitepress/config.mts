@@ -66,9 +66,9 @@ export default defineConfigWithTheme<ThemeConfig>({
   ],
   ignoreDeadLinks: true,
   // 生成站点地图
- sitemap: {
-   hostname: 'https://www.112227.xyz/',
- },
+  // sitemap: {
+    // hostname: 'https://www.112227.xyz/',
+  // },
   title: "Sensei's 部落格",
   description: "Sensei's 部落格",
   themeConfig: {
@@ -84,8 +84,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     welcomeText: 'Hello, XiaoBei',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
+      { icon: 'github', url: 'https://github.com/Xiaonorth/' },
+      { icon: 'bilibili', url: 'https://b23.tv/s6Lkb8O' },
       { icon: 'qq', url: 'https://im.qq.com/index/' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
