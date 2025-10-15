@@ -103,7 +103,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     //gitalk配置
     clientID: 'Ov23liOc0M2l43ZrFsf8',
     clientSecret: '310b8ca6eeb79d2c90069ea17e4a7db8ae2757eb',
-    repo: 'vitepress-theme-bluearchive',
+    repo: 'gitalk_xiaobei',
     owner: 'Xiaonorth',
     admin: ['Xiaonorth'],
   },
